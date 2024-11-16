@@ -1,2 +1,3 @@
 # ProjectX
-My first real-world problem solving project.
+My first real-world problem-solving project.
+Author-Raghavendra Rao K
