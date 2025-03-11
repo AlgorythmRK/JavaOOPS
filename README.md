@@ -1,4 +1,4 @@
-# ProjectX
-My first real-world problem-solving project.
+# Java OOPS
+Consists of Basics and Soloved OOP problems
 <br>
 Author-Raghavendra Rao K
