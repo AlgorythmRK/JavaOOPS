@@ -1,4 +1,4 @@
-//Creating the Class and Its Objects
+//Creating the Class and Its Objects and how to use multiple objects for the same class
 
 public  class Main3 {
    //declaration of the data type called Student
